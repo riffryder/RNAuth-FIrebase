@@ -2,6 +2,10 @@
 #
 .DS_Store
 
+# Keys
+#
+config.js
+
 # Xcode
 #
 build/
